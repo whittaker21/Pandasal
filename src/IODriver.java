@@ -6,7 +6,7 @@ public class IODriver {
 		System.out.println("Choose your Class: \n"
 	    		+ "1: Warrior \n"
 	    		+ "2: Mage \n"
-	    		+ "3: Archer \n"
+	    		+ "3: Archerr \n"
 	    		+ "4: Assassin \n"
 	    		+ "5: Priest \n");
 	};
