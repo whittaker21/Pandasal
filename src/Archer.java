@@ -1,4 +1,4 @@
-
+//Developer Preston Whittaker
 public class Archer extends Character {
 	
 	public static final String klass = "Archer";
